@@ -9,7 +9,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>Registration</title>
  
-     <!-- CSS Code -->
+     <!-- CSS Code modified here from newbranch -->
      <style>
          .container{
              justify-content: center;
